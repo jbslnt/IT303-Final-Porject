@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe.config
+C:\Users\User\source\repos\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe
+C:\Users\User\source\repos\QuizApplication\QuizApplication\bin\Debug\QuizApplication.pdb
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Instructor.resources
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Instructor_UC.AddNewQuestion.resources
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Instructor_UC.UpdateQuestion.resources
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.LoginForm.resources
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Properties.Resources.resources
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.exe
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.pdb
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Instructor_UC.ViewAndDelete.resources
+C:\Users\User\source\repos\QuizApplication\QuizApplication\obj\Debug\QuizApplication.Register.resources
